@@ -1,4 +1,4 @@
-# ![Consents.me Logo](./logo.gif)
+# ![Consents.me Logo](assets/logo.gif)
 
 # 📱 Consents.me
 

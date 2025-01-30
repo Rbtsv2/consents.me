@@ -1,4 +1,4 @@
-# ![Consents.me Logo](./logo.png)
+# ![Consents.me Logo](./logo.gif)
 
 # 📱 Consents.me
 
@@ -25,7 +25,7 @@ Consents.me is a mobile application designed to **securely request, timestamp, a
 - 📱 **React Native** (Mobile Development)
 - 📊 **PostgreSQL** (Data Storage)
 - 🏗 **Docker** (Infrastructure)
-- ⚡ **GraphQL API**
+- ⚡ **API REST**
 - 🔐 **Google Authenticator / SMS validation**
 
 ## 📷 Screenshots (Coming Soon)

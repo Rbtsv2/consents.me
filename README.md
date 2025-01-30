@@ -1,4 +1,6 @@
-# ![Consents.me Logo](assets/logo.gif)
+<p align="center">
+  <img src="assets/logo.gif" alt="Consents.me Logo">
+</p>
 
 # 📱 Consents.me
 
